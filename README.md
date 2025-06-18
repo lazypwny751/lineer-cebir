@@ -1,2 +1,2 @@
-# linear-algebra
-learnin linear algebra
+# lineer-cebir
+learnin linear algebra at 3am..
